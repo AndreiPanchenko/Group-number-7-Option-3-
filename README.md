@@ -1,2 +1,4 @@
-# Group-number-7-Option-3-
-Create game
+# Group-number-7-Option-3
+Андрей - разработчик 
+Арина - разработчик
+Далер - разработчик 
